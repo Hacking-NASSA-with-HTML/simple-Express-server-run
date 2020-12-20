@@ -20,5 +20,5 @@ Start Node to run
 ### http://localhost:3000/  
 Open in browser to see the Node is running
 
-### http://localhost:3000/?name=Richcatt
+### http://localhost:3000/welcome/?name=Richcatt
 Request with a name ))
