@@ -22,3 +22,6 @@ Open in browser to see the Node is running
 
 ### http://localhost:3000/welcome/?name=Richcatt
 Request with a name ))
+
+### http://localhost:3000/public/form.html
+To run app with HTML form
