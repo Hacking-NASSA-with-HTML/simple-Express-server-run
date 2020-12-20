@@ -12,6 +12,9 @@ Install Express body-parser
 ### npm install ejs  
 Install EmbeddedJS view engine
 
+### npm install mongoose --save  
+Install Mongoose helper package
+
 
 
 ### node index.js
